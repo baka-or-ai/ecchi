@@ -1,0 +1,22 @@
+{
+  "name": "UwU",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilollipop/bot-discord.git"
+  },
+  "author": "UwU#2756",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilollipop/bot-discord/issues"
+  },
+  "homepage": "https://github.com/hilollipop/bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
